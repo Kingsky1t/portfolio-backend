@@ -9,4 +9,4 @@ to make changes
 
 -> url of the hosted project
 
--> relative path to the image (./image/photo.jpg)
+-> relative path to the image (/image/photo.jpg)

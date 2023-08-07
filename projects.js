@@ -19,6 +19,11 @@ const projects = [
         link: "https://js-documentation.pages.dev/",
         img: "/assets/images/documentation.png",
     },
+    {
+        name: "Keycode Website",
+        link: "https://keycode-website.pages.dev/",
+        img: "/assets/images/keycode.jpg",
+    },
 ];
 
 module.exports = projects;

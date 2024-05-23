@@ -1,27 +1,27 @@
-[   
-  {
-        name: "Tribute Page",
-        link: "https://tribute-page-am1.pages.dev/",
-        img: "/assets/images/tribute.jpg",
+[
+    {
+        "name": "Tribute Page",
+        "link": "https://tribute-page-am1.pages.dev/",
+        "img": "/tribute.jpg"
     },
     {
-        name: "Survey Page",
-        link: "https://survey-page.pages.dev/",
-        img: "/assets/images/survey.png",
+        "name": "Survey Page",
+        "link": "https://survey-page.pages.dev/",
+        "img": "/survey.png"
     },
     {
-        name: "Product Landing Page",
-        link: "https://original-trombones-landing-page.pages.dev/",
-        img: "/assets/images/landing.png",
+        "name": "Product Landing Page",
+        "link": "https://original-trombones-landing-page.pages.dev/",
+        "img": "/landing.png"
     },
     {
-        name: "JS Documentation",
-        link: "https://js-documentation.pages.dev/",
-        img: "/assets/images/documentation.png",
+        "name": "JS Documentation",
+        "link": "https://js-documentation.pages.dev/",
+        "img": "/documentation.png"
     },
     {
-        name: "Keycode Website",
-        link: "https://keycode-website.pages.dev/",
-        img: "/assets/images/keycode.jpg",
-    },
+        "name": "Keycode Website",
+        "link": "https://keycode-website.pages.dev/",
+        "img": "/keycode.jpg"
+    }
 ]

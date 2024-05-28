@@ -1,12 +1,8 @@
 # portfolio-backend
 to make changes
 
-(1) add photo to the images folder. the photo must be in 3:2 ratio 
-
-(2) update the projects.js file and add three things
-
--> name of the project
-
--> url of the hosted project
-
--> relative path to the image (/photo.jpg)
+1. Add photo to the `./assets/images` folder (The photo must be in 3:2 ratio). 
+2. Update the `data.json` file and add three things
+   - name of the project.
+   - url of the project.
+   - relative path to the image folder (eg, `./photo.jpg`).

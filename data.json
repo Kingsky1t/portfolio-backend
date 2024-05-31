@@ -1,27 +1,97 @@
 [
-    {
-        "name": "Tribute Page",
-        "link": "https://tribute-page-am1.pages.dev/",
-        "img": "/tribute.jpg"
-    },
-    {
-        "name": "Survey Page",
-        "link": "https://survey-page.pages.dev/",
-        "img": "/survey.png"
-    },
-    {
-        "name": "Product Landing Page",
-        "link": "https://original-trombones-landing-page.pages.dev/",
-        "img": "/landing.png"
-    },
-    {
-        "name": "JS Documentation",
-        "link": "https://js-documentation.pages.dev/",
-        "img": "/documentation.png"
-    },
-    {
-        "name": "Keycode Website",
-        "link": "https://keycode-website.pages.dev/",
-        "img": "/keycode.jpg"
-    }
+  {
+    "name": "2D Portfolio",
+    "link": "https://2d-portfolio.pages.dev/",
+    "img": "/2d.png"
+  },
+  {
+    "name": "Weather Forecast App",
+    "link": "https://weather-app-7zt.pages.dev/",
+    "img": "/weather.png"
+  },
+  {
+    "name": "Exercise Tracker",
+    "link": "https://b45bc367.mern-app-frontend.pages.dev/",
+    "img": "/exercise.png"
+  },
+  {
+    "name":"Analizio (Minor Project)",
+    "link":"https://github.com/Kingsky1t/Analizio-Minor-Project",
+    "img":"/analizio.png"
+  },
+  {
+    "name": "Resume Builder",
+    "link": "https://resume-builder-a4t.pages.dev/",
+    "img": "/resume-builder.png"
+  },
+  {
+    "name":"User Management System",
+    "link":"https://crud-app-kingsky1t.onrender.com/",
+    "img" :"/crud.png"
+  }
+  {
+    "name": "To-Do List",
+    "link": "https://to-do-list-362.pages.dev/",
+    "img": "/todo.png"
+  },
+  {
+    "name": "Event Landing page",
+    "link": "https://kriti-home.pages.dev/",
+    "img": "/kriti.png"
+  },
+  {
+    "name": "Airbnb Experiences",
+    "link": "https://airbnb-experiences-clone.pages.dev/",
+    "img": "/airbnb.png"
+  },
+  {
+    "name": "Meme Generator",
+    "link": "https://meme-generator-13q.pages.dev/",
+    "img": "/meme.png"
+  },
+  {
+    "name": "React Info",
+    "link": "https://react-first-page.pages.dev/",
+    "img": "/react-info.png"
+  },
+  {
+    "name": "Tribute Page",
+    "link": "https://tribute-page-am1.pages.dev/",
+    "img": "/tribute.jpg"
+  },
+  {
+    "name": "Survey Page",
+    "link": "https://survey-page.pages.dev/",
+    "img": "/survey.png"
+  },
+  {
+    "name": "Product Landing Page",
+    "link": "https://original-trombones-landing-page.pages.dev/",
+    "img": "/landing.png"
+  },
+  {
+    "name": "JS Documentation",
+    "link": "https://js-documentation.pages.dev/",
+    "img": "/documentation.png"
+  },
+  {
+    "name": "Keycode Website",
+    "link": "https://keycode-website.pages.dev/",
+    "img": "/keycode.jpg"
+  },
+  {
+    "name": "Clock",
+    "link": "https://clock-3ao.pages.dev/",
+    "img": "/clock.png"
+  },
+  {
+    "name": "Drums Kit",
+    "link": "https://drums-kit.pages.dev/",
+    "img": "/drums.png"
+  },
+  {
+    "name": "Update Css variables with Js",
+    "link": "https://changing-css-variables-with-js.pages.dev/",
+    "img": "/update.png"
+  }
 ]

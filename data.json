@@ -15,9 +15,9 @@
     "img": "/exercise.png"
   },
   {
-    "name":"Analizio (Minor Project)",
-    "link":"https://github.com/Kingsky1t/Analizio-Minor-Project",
-    "img":"/analizio.png"
+    "name": "Analizio (Minor Project)",
+    "link": "https://github.com/Kingsky1t/Analizio-Minor-Project",
+    "img": "/analizio.png"
   },
   {
     "name": "Resume Builder",
@@ -25,9 +25,9 @@
     "img": "/resume-builder.png"
   },
   {
-    "name":"User Management System",
-    "link":"https://crud-app-kingsky1t.onrender.com/",
-    "img" :"/crud.png"
+    "name": "User Management System",
+    "link": "https://crud-app-kingsky1t.onrender.com/",
+    "img": "/crud.png"
   },
   {
     "name": "To-Do List",
